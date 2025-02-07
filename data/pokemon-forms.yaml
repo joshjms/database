@@ -31637,7 +31637,7 @@ terapagos-terastal:
     gen: 9
     release: scarlet-violet
     type1: normal
-    type2: -
+    type2:
     stats:
         hp: 95
         attack: 95
@@ -31664,7 +31664,7 @@ terapagos-stellar:
     gen: 9
     release: scarlet-violet
     type1: normal
-    type2: -
+    type2:
     stats:
         hp: 160
         attack: 105
